@@ -1,6 +1,6 @@
 # Hey there! I'm John Dominique Gonzales 👋
 
-I am a 22-year-old Computer Engineering student specializing in cross-platform mobile app engineering, full-stack web development, and robotics/automation logic. I thrive in hands-on, practical engineering environments and focus on building smart, connected systems that bridge software with physical hardware.
+I am a Computer Engineering graduate specializing in cross-platform mobile app engineering, full-stack web development, and robotics/automation logic. I thrive in hands-on, practical engineering environments and focus on building smart, connected systems that bridge software with physical hardware.
 
 - 📍 **Location:** Boac, Marinduque, Philippines
 - 🎓 **Education:** B.S. in Computer Engineering, Marinduque State University (Class of 2026)
