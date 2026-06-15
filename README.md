@@ -5,7 +5,7 @@ I am a Computer Engineering graduate specializing in cross-platform mobile app e
 - 📍 **Location:** Boac, Marinduque, Philippines
 - 🎓 **Education:** B.S. in Computer Engineering, Marinduque State University (Class of 2026)
 - 🏆 **Achievement:** Regional C++ Programming Competition Champion (ICPEP R4B)
-- 💼 **Status:** Open to internships and Junior Software/Hardware Developer roles
+- 💼 **Status:** Open to Junior Software/Hardware Developer roles
 
 ---
 
