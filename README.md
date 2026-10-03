@@ -1,16 +1,9 @@
 <div align="center">
 
-  <!-- Header Section with Light Blue Theme & Glowing Badges -->
-  <h1><font size="7" color="#38BDF8">JOHN DOMINIQUE (DOMS)</font></h1>
-  <p><font size="4" color="#7DD3FC"><b>Software Developer | C++ Competitive Programmer</b></font></p>
-  <p><font size="3" color="#BAE6FD">📍 Taguig, Metro Manila, Philippines 🇵🇭</font></p>
-
-  <!-- Animated Trophy Showcase -->
-  <p align="center">
-    <a href="https://github.com/Jeydeee04" title="GitHub Trophies">
-      <img src="https://github-profile-trophy.vercel.app/?username=Jeydeee04&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true" alt="Jeydeee04 Trophies" />
-    </a>
-  </p>
+  <!-- Interactive Neofetch Terminal Profile Card -->
+  <a href="https://github.com/Jeydeee04" title="John Dominique | Neofetch Card">
+    <img src="https://neofetch-profile.vercel.app/api?username=Jeydeee04&theme=dark" alt="Neofetch Terminal Card" width="100%" />
+  </a>
 
 </div>
 
@@ -51,16 +44,8 @@
 
 <div align="center">
 
-  <!-- Animated Interactive GitHub Activity Graph (Pulse Wave, No Snake) -->
   <a href="https://github.com/Jeydeee04" title="GitHub Activity Graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeydeee04&theme=react-dark&bg_color=0F172A&color=38BDF8&line=0284C7&point=7DD3FC&area=true&hide_border=true" width="100%" />
-  </a>
-
-  <br /><br />
-
-  <!-- Animated Real-time Streak Counter -->
-  <a href="https://github.com/Jeydeee04" title="GitHub Commit Streaks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeydeee04&theme=tokyonight&background=0F172A&ring=38BDF8&fire=0284C7&currStreakNum=7DD3FC&sideNums=BAE6FD&border_radius=10" width="100%" />
   </a>
 
 </div>
