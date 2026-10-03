@@ -1,9 +1,13 @@
 <div align="center">
 
-  <!-- Interactive Neofetch Terminal Profile Card -->
-  <a href="https://github.com/Jeydeee04" title="John Dominique | Neofetch Card">
-    <img src="https://neofetch-profile.vercel.app/api?username=Jeydeee04&theme=dark" alt="Neofetch Terminal Card" width="100%" />
+  <!-- Animated Header Banner -->
+  <a href="https://github.com/Jeydeee04" title="John Dominique | Profile Banner">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=220&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20John%20Dominique&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20C%2B%2B%20Competitive%20Programmer&descSize=18&descAlignY=62" width="100%" />
   </a>
+
+  <p align="center">
+    <font size="3" color="#BAE6FD">📍 Taguig, Metro Manila, Philippines 🇵🇭</font>
+  </p>
 
 </div>
 
