@@ -1,73 +1,79 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%90%8B+I'm+John+Dominique+(Jeydeee);Full-Stack+%26+Computer+Vision+Engineer;C%2B%2B+Competitive+Programmer;IoT+%26+Embedded+Systems+Developer" alt="Typing SVG" />
+  <!-- Header Banner with Bebas Neue & Poppins -->
+  <a href="https://github.com/Jeydeee04" title="John Dominique Gonzales | GitHub Profile">
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=38&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=JOHN+DOMINIQUE+GONZALES" alt="Header Title" />
   </a>
-
-  <p align="center">
-    📍 Taguig, Metro Manila, Philippines 🇵🇭
-  </p>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=30&lines=Full-Stack+%26+Computer+Vision+Engineer+%7C+C%2B%2B+Programmer" alt="Header Subtitle" />
 
 </div>
 
----
+<br />
 
-### ⚡ Technical Skills & Ecosystem
+<!-- Section Title: Skills -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=26&color=38BDF8&center=true&vCenter=true&width=400&height=35&lines=%E2%9A%A1+TECHNICAL+SKILLS+%26+ECOSYSTEM" alt="Skills Title" />
+</div>
 
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <a href="https://isocpp.org/" title="C++ Programming"><img src="https://img.shields.io/badge/C%2B%2B-0284C7?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-0369A1?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/TypeScript-0284C7?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-38BDF8?style=for-the-badge&logo=javascript&logoColor=075985" /></a>
+  <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" title="GDScript"><img src="https://img.shields.io/badge/GDScript-0369A1?style=for-the-badge&logo=godotengine&logoColor=white" /></a>
   <br />
 
   <!-- Web & Mobile Frameworks -->
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <a href="https://nextjs.org/" title="Next.js 15"><img src="https://img.shields.io/badge/Next.js_15-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8" /></a>
+  <a href="https://reactnative.dev/" title="React Native"><img src="https://img.shields.io/badge/React_Native-38BDF8?style=for-the-badge&logo=react&logoColor=0F172A" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS v4"><img src="https://img.shields.io/badge/Tailwind_CSS_v4-0284C7?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/FastAPI-0369A1?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=38BDF8" /></a>
   <br />
 
   <!-- Databases & Hardware/CV -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi_4B-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <a href="https://www.mysql.com/" title="MySQL Database"><img src="https://img.shields.io/badge/MySQL-0284C7?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://firebase.google.com/" title="Google Firebase"><img src="https://img.shields.io/badge/Firebase-38BDF8?style=for-the-badge&logo=firebase&logoColor=0F172A" /></a>
+  <a href="https://pytorch.org/" title="PyTorch Deep Learning"><img src="https://img.shields.io/badge/PyTorch-0369A1?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="https://opencv.org/" title="OpenCV Computer Vision"><img src="https://img.shields.io/badge/OpenCV-0284C7?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+  <a href="https://www.raspberrypi.com/" title="Raspberry Pi 4B"><img src="https://img.shields.io/badge/Raspberry_Pi_4B-0369A1?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
 
 </div>
 
----
+<br />
 
-### 📈 Contribution Activity & Stats
+<!-- Section Title: Contribution Activity -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=26&color=38BDF8&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%93%88+CONTRIBUTION+ACTIVITY" alt="Activity Title" />
+</div>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeydeee04&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeydeee04&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" width="48%" />
+  <!-- GitHub Stats & Top Languages with Interactive Links -->
+  <a href="https://github.com/Jeydeee04" title="View Detailed GitHub Profile Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jeydeee04&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=BAE6FD&bg_color=0F172A&border_color=0284C7&border_radius=10" width="48%" />
+  </a>
+  <a href="https://github.com/Jeydeee04" title="View Language Breakdown">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeydeee04&layout=compact&title_color=38BDF8&text_color=BAE6FD&bg_color=0F172A&border_color=0284C7&border_radius=10&hide=html,css" width="48%" />
+  </a>
 
   <br /><br />
 
-  <!-- Animated Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeydeee04&theme=tokyonight&border_radius=10" width="97%" />
+  <!-- Animated Contribution Grid (Snake) -->
+  <a href="https://github.com/Jeydeee04" title="Contribution Grid Snake Animation">
+    <img src="https://raw.githubusercontent.com/Jeydeee04/Jeydeee04/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" width="100%" />
+  </a>
 
 </div>
 
----
+<br />
 
-### 🐍 Contribution Grid
-
+<!-- Footer with Inter Font -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeydeee04/Jeydeee04/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with ⚡ by <a href="https://github.com/Jeydeee04">John Dominique L. Gonzales</a></sub>
+  <a href="https://github.com/Jeydeee04" title="Built by John Dominique L. Gonzales">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&color=7DD3FC&center=true&vCenter=true&width=500&height=25&lines=Designed+with+%E2%9A%A1+by+John+Dominique+L.+Gonzales" alt="Footer text" />
+  </a>
 </div>
