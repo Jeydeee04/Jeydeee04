@@ -6,31 +6,14 @@
   </a>
 
   <p align="center">
-    <b>Computer Engineering Graduate</b> • <b>Civil Service Professional Eligible</b>
-    <br />
     📍 Taguig, Metro Manila, Philippines 🇵🇭
-  </p>
-
-  <!-- Quick Trophy / Achievement Badges -->
-  <p align="center">
-    <a href="https://github.com/Jeydeee04">
-      <img src="https://github-profile-trophy.vercel.app/?username=Jeydeee04&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="Jeydeee04 Trophies" />
-    </a>
   </p>
 
 </div>
 
 ---
 
-### 🏆 Hall of Fame & Recognitions
-
-* 🥇 **Champion** — Regional C++ Programming Competition (2025)
-* 🥈 **2nd Place** — Regional C++ Programming Competition (2026) | **11th Place** — National C++ Competition
-* 📜 **Rank 2 Best Thesis Award** — Automated Volume-Compressing Smart Bin (*Pneumatics, IoT Telemetry & Computer Vision*)
-
----
-
-### ⚡ Tech Stack & Ecosystem
+### ⚡ Technical Skills & Ecosystem
 
 <div align="center">
 
@@ -61,20 +44,30 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 📈 Contribution Activity & Stats
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ♻️ Smart Bin System                                                                    │
-│ ├─ Computer Vision Waste Classification (PyTorch YOLOv11)                             │
-│ ├─ Hardware Telemetry & Automated Pneumatics via Serial Protocol                       │
-│ └─ Real-Time Mobile Dashboard (React Native + Expo + Firebase)                         │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-│ 🖐️ MediaPipe Hand Canvas                                                               │
-│ ├─ Dynamic Gesture Recognition & Pinch Sensitivity Calibration                        │
-│ └─ Interactive Next.js 15 Web Canvas Engine                                            │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-│ ♟️ Godot RL Chess Agent                                                                 │
-│ ├─ Custom 2D Chess Rules & Board Architecture in GDScript                              │
-│ └─ Reinforcement Learning Action Masking with Stable-Baselines3                        │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeydeee04&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeydeee04&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" width="48%" />
+
+  <br /><br />
+
+  <!-- Animated Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeydeee04&theme=tokyonight&border_radius=10" width="97%" />
+
+</div>
+
+---
+
+### 🐍 Contribution Grid
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jeydeee04/Jeydeee04/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ⚡ by <a href="https://github.com/Jeydeee04">John Dominique L. Gonzales</a></sub>
+</div>
