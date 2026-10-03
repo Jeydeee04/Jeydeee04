@@ -1,24 +1,15 @@
 <div align="center">
 
-  <!-- Header Banner with Bebas Neue & Poppins -->
-  <a href="https://github.com/Jeydeee04" title="John Dominique (Doms) | GitHub Profile">
-    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=38&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=JOHN+DOMINIQUE+(DOMS)" alt="Header Title" />
-  </a>
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=30&lines=Software+Developer+%7C+C%2B%2B+Competitive+Programmer" alt="Header Subtitle" />
-
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&color=BAE6FD&center=true&vCenter=true&width=400&height=25&lines=%F0%9F%93%A1+Taguig%2C+Metro+Manila%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Location" />
-  </p>
+  <!-- Static Title in Bebas Neue style & Light Blue Theme -->
+  <h1><font size="7" color="#38BDF8">JOHN DOMINIQUE (DOMS)</font></h1>
+  <p><font size="4" color="#7DD3FC"><b>Software Developer | C++ Competitive Programmer</b></font></p>
+  <p><font size="3" color="#BAE6FD">📍 Taguig, Metro Manila, Philippines 🇵🇭</font></p>
 
 </div>
 
-<br />
+---
 
-<!-- Section Title: Skills (Bebas Neue) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=26&color=38BDF8&center=true&vCenter=true&width=400&height=35&lines=%E2%9A%A1+TECHNICAL+SKILLS+%26+ECOSYSTEM" alt="Skills Title" />
-</div>
+### ⚡ Technical Skills & Ecosystem
 
 <div align="center">
 
@@ -47,15 +38,17 @@
 
 </div>
 
-<br />
+---
 
-<!-- Section Title: Contribution Grid (Bebas Neue) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=26&color=38BDF8&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%90%8D+CONTRIBUTION+GRID" alt="Contribution Grid Title" />
-</div>
+### 📊 Contribution & Language Stats
 
 <div align="center">
-  <a href="https://github.com/Jeydeee04" title="Interactive Snake Contribution Grid">
-    <img src="https://raw.githubusercontent.com/Jeydeee04/Jeydeee04/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+  <a href="https://github.com/Jeydeee04" title="GitHub Overview Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jeydeee04&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=BAE6FD&bg_color=0F172A&border_color=0284C7&border_radius=10" width="48%" />
   </a>
+  <a href="https://github.com/Jeydeee04" title="Language Breakdown">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeydeee04&layout=compact&title_color=38BDF8&text_color=BAE6FD&bg_color=0F172A&border_color=0284C7&border_radius=10&hide=html,css" width="48%" />
+  </a>
+
 </div>
