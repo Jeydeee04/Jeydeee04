@@ -1,19 +1,24 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <a href="https://github.com/Jeydeee04" title="John Dominique | Profile Banner">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=220&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20John%20Dominique&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20C%2B%2B%20Competitive%20Programmer&descSize=18&descAlignY=62" width="100%" />
+  <!-- Header Banner -->
+  <a href="https://github.com/Jeydeee04" title="John Dominique (Doms) | GitHub Profile">
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=38&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=JOHN+DOMINIQUE+(DOMS)" alt="Header Title" />
   </a>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&height=30&lines=Software+Developer+%7C+C%2B%2B+Competitive+Programmer" alt="Header Subtitle" />
 
   <p align="center">
-    <font size="3" color="#BAE6FD">📍 Taguig, Metro Manila, Philippines 🇵🇭</font>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&color=BAE6FD&center=true&vCenter=true&width=400&height=25&lines=%F0%9F%93%A1+Taguig%2C+Metro+Manila%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Location" />
   </p>
 
 </div>
 
----
+<br />
 
-### ⚡ Technical Skills & Ecosystem
+<!-- Section Title: Skills -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=26&color=38BDF8&center=true&vCenter=true&width=400&height=35&lines=%E2%9A%A1+TECHNICAL+SKILLS+%26+ECOSYSTEM" alt="Skills Title" />
+</div>
 
 <div align="center">
 
@@ -42,14 +47,15 @@
 
 </div>
 
----
+<br />
 
-### 📊 Contribution Grid
+<!-- Section Title: Contribution Grid -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=26&color=38BDF8&center=true&vCenter=true&width=400&height=35&lines=%F0%9F%93%88+CONTRIBUTION+GRID" alt="Contribution Grid Title" />
+</div>
 
 <div align="center">
-
-  <a href="https://github.com/Jeydeee04" title="GitHub Activity Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeydeee04&theme=react-dark&bg_color=0F172A&color=38BDF8&line=0284C7&point=7DD3FC&area=true&hide_border=true" width="100%" />
+  <a href="https://github.com/Jeydeee04" title="GitHub Contribution Streak">
+    <img src="https://streak-stats.demolab.com/?user=Jeydeee04&theme=dark&background=0F172A&ring=38BDF8&fire=0284C7&currStreakNum=7DD3FC&sideNums=BAE6FD&border=0284C7&border_radius=10" width="100%" />
   </a>
-
 </div>
